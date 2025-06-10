@@ -1,4 +1,10 @@
 <div align="center">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tpcmFlOXNkZTFwMm9hNXJlY2IxYWo4eXBvaWMzNWxrdXF5dDhhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ljs38pci3uCZm0nUdD/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://t.me/cookie" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=cookie&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="telegram logo"  />
   </a>
@@ -11,10 +17,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hquy09.hquy09&left_color=cadetblue&right_color=burlywood"  />
 </div>
-
-###
-
-<img align="left" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tpcmFlOXNkZTFwMm9hNXJlY2IxYWo4eXBvaWMzNWxrdXF5dDhhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ljs38pci3uCZm0nUdD/giphy.gif"  />
 
 ###
 
