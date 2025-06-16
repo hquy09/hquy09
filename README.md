@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Huu Quy from Viet Nam 🇻🇳<br><br>- 🔭 I’m working as a student in Ngo Gia Tu High School - DakLak<br>- 📚 I'm currently learning C++, Python<br>- ⚡ In my free time I go to sleep 💤</p>
+<p align="left">I'm Huu Quy from Viet Nam 🇻🇳<br><br>- 🔭 I’m working as a student.<br>- 📚 I'm currently learning C++, Python<br>- ⚡ In my free time I go to sleep 💤</p>
 
 ###
 
